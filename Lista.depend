@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652651258 source:e:\unlam\programacion & tcp\programacion\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista/lista.h"
+
+1652651196 source:e:\unlam\programacion & tcp\programacion\lista\lista\lista.c
+	"lista.h"
+
+1652651200 e:\unlam\programacion & tcp\programacion\lista\lista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
